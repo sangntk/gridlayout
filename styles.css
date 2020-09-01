@@ -1,0 +1,63 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.title_header {
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	top: 20px;
+	color: #EBEEFD;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.my_frame {
+	background-color: #10163A;
+  width: 350px;
+ 	height: 383px;
+}
+
+.grid_layout {
+	position: absolute;
+	top: 52px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 310px;
+ 	height: 310px;
+}
+
+.list-grid-item-col1 {
+	margin-top: 12px;
+	margin-left: 17px;
+	width: 90px;
+	height: 90px;
+  background-image: url("https://pmcvariety.files.wordpress.com/2019/11/chris-evans-feat-image.jpg?w=600");
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
+}
+
+.list_grid_item-col2 {
+	margin-top: 12px;
+	margin-left: 23px;
+	width: 90px;
+	height: 90px;
+  background-image: url("https://i.insider.com/5d4c880edcc1e7141a789532?width=900&format=jpeg&auto=webp");
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
+}
+
+.list_grid_item-col3 {
+	margin-top: 12px;
+	margin-left: 20px;
+	width: 90px;
+	height: 90px;
+  background-image: url("https://www.straitstimes.com/sites/default/files/styles/article_pictrure_780x520_/public/articles/2019/06/01/files-entertainment-batman-pattinson-161107.jpg?itok=lOPvfDcE&timestamp=1559326787");
+  background-size: cover;
+  background-position: center;
+  border-radius: 4px;
+}
+
